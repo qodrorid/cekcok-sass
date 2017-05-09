@@ -1,0 +1,22 @@
+body {
+  background: #333; }
+
+.artikel h1 {
+  color: red; }
+.artikel p {
+  color: white; }
+
+.custom-btn, .box {
+  border: 1px solid #fff;
+  padding: 10px; }
+
+.box {
+  background-color: #ff3333;
+  color: #fff;
+  width: 100px;
+  height: 100px; }
+  .box::before {
+    content: "Siapa kamu?";
+    display: block; }
+
+/*# sourceMappingURL=style.css.map */
